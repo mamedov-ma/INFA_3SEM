@@ -1,0 +1,33 @@
+ls path.....-a....path...-l         //here we have to use getopt() or getoptlong()
+
+short
+
+long -l  --long
+     
+     -a  --all    //выводит также файлы начинающиеся с точки
+     
+     -i  --inote
+     
+     -n  --numeric
+     
+     -R  --recursive  //рекурсивный обход файловой системы, начиная с текущей директории
+     
+
+readlink() // dor links
+
+opendir()
+closedir()
+
+readdir.r()
+
+lstat()
+
+
+
+//
+    st_mode
+    st_uid
+    st_gid
+    st_size
+    st_nlinks
+//
