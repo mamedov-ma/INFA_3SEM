@@ -1,4 +1,0 @@
-def print:
-    print("HELLO\n")
-
-print()

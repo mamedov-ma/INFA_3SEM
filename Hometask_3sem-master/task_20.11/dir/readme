@@ -1,6 +1,0 @@
-programm doing "ls"
-__________________
-RUN
-gcc 20.11.c
-./a.out <TARGET>
-_________________

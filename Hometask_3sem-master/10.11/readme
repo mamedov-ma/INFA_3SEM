@@ -1,8 +1,0 @@
-Read lock's files with fcntl
-
-____________________________
-RUN
-gcc lock.c -o lock
-./lock filename
-STDOUT: lock's of file
-___________________________
